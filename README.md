@@ -33,13 +33,13 @@ $ docker-compose up
 
 Add iptables rules to autoruns:
 
-''' bash
+``` bash
 $ chmod +x iptables_ruls.sh
-'''
+```
 and
-''' bash
+``` bash
 $ echo "/sbin/iptables-restore < /iptables_ruls.sh " >> /etc/rc.d/rc.local
-'''
+```
 
 [install-docker]: https://docs.docker.com/engine/installation
 [install-docker-compose]: https://docs.docker.com/compose/install
