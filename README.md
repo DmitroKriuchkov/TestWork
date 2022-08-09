@@ -1,5 +1,7 @@
 # TestWork
 
+All this was studied and completed in one day, since nothing like this had ever been done before.
+
 [Install docker on your machine.][install-docker]
 
 [Install docker-compose on your machine.][install-docker-compose]
