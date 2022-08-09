@@ -1,6 +1,7 @@
 # TestWork
 
 All this was studied and completed in one day, since nothing like this had ever been done before.
+At the moment I'm not sure if it works.
 
 [Install docker on your machine.][install-docker]
 
